@@ -6,8 +6,8 @@ En su directorio raíz cree la carpeta lang utilizando el siguiente codigo en la
 php artisan lang:publish
 
 esto creara una carpeta llamada lang en su directorio raíz, dentro encontrara otra carpeta llamada ‘en’ ,
-al lado de esta ud deberá crear una nueva carpeta llamada ‘es’ en la cual copiara y pegara los cuales corresponden 
-a la debida traducción:
+al lado de esta ud deberá crear una nueva carpeta llamada ‘es’ en la cual copiara y pegara los archivos aqui expuestos que corresponden 
+a la respectiva traducción:
 
   auth.php
 
